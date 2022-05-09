@@ -17,8 +17,7 @@
         Sendo uma Linguagem compilada em parametros basicos:
 
             Uma linguagem que ao contrário de uma interpretada, o código precisa ser "transformado" em um binário contendo instruções na linguagem que a máquina entende antes de poder ser executado.
-                
-                Binário = um arquivo escrito na forma de uma "imagem" exata de como seu conteúdo seria carregado na memória.
+            ** Binário = um arquivo escrito na forma de uma "imagem" exata de como seu conteúdo seria carregado na memória.
     
     Algumas dicas quando se trabalha com C (Valeu pela aulas Blau Araujo <https://www.youtube.com/channel/UC8EGrwe_DXSzrCQclf_pv9g>)
 
