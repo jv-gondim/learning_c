@@ -1,6 +1,8 @@
 ## Principios básicos de C
 
-    C é uma linguagem compilada criada em 1972 por Dennis Ritchie para desenvolvimento do sistema operacional Unix. E uma linguagem muito popular e existe poucas arquiteturas aonde nao exista compiladores para C. É muito usada para trabalhar com microprocessadores. As principais caractericas de C sao:
+    C é uma linguagem compilada criada em 1972 por Dennis Ritchie para desenvolvimento do sistema operacional Unix. 
+    E uma linguagem muito popular e existe poucas arquiteturas aonde nao exista compiladores para C. 
+    É muito usada para trabalhar com microprocessadores. As principais caractericas de C sao:
 
         * É uma linguagem compilada 
         * Está em algum nivel(Parte da comundade fala que é alta, outra que é baixo e outros, ainda, falam que é media. Entao nao existe consenso.)
@@ -16,25 +18,10 @@
         
         Sendo uma Linguagem compilada em parametros basicos:
 
-            Uma linguagem que ao contrário de uma interpretada, o código precisa ser "transformado" em um binário contendo instruções na linguagem que a máquina entende antes de poder ser executado.
+            Uma linguagem que ao contrário de uma interpretada, o código precisa ser "transformado" em um 
+            binário contendo instruções na linguagem que a máquina entende antes de poder ser executado.
                 
                 Binário = um arquivo escrito na forma de uma "imagem" exata de como seu conteúdo seria carregado na memória.
-    
-    Algumas dicas quando se trabalha com C (Valeu pela aulas Blau Araujo <https://www.youtube.com/channel/UC8EGrwe_DXSzrCQclf_pv9g>)
-
-    + Seja radical!
-
-    Ataque os problemas pela raiz!
-
-    + Seja básico!
-
-    Pareto: 80% dos efeitos estão em 20% das causas.
-
-    + Seja essencial!
-
-    O essencial é o que sobra quando você remove todas
-    as variáveis de um problema sem transformá-lo em
-    outro problema.
 
     C é uma linguagem compilada e existem varias compiladores para ele. O GCC ou GNU Compiler Collection é um dos mais famosos.
 
@@ -91,7 +78,10 @@
 
 ##### Alguns detalhes dos tipos primitivos e seus espaçamento na mémoria
 
-     Importante ressaltar que todos os tipos primitivos, inclusive o caracter, todos sao número e bytes. Mas, o tamanho e a faixa de valores depende do computador e do compilador utilizado. O padrão ANSI C determina somente um intervalo de valores mínimo para cada tipo de dado, com exceção de void, os outros tipos de dados primitivos podem ter modificadores. Os modificadores alteram o tamanho do tipo de dado ou sua forma de representação. Sua utilização faz com que seja possível adequar-se melhor às necessidades de armazenamento de dados em determinados casos.
+     Importante ressaltar que todos os tipos primitivos, inclusive o caracter, todos sao número e bytes. 
+     Mas, o tamanho e a faixa de valores depende do computador e do compilador utilizado. 
+     O padrão ANSI C determina somente um intervalo de valores mínimo para cada tipo de dado, com exceção de void, os outros tipos de dados primitivos podem ter modificadores. 
+     Os modificadores alteram o tamanho do tipo de dado ou sua forma de representação. Sua utilização faz com que seja possível adequar-se melhor às necessidades de armazenamento de dados em determinados casos.
 
 
     Tipo inteiro(int)
