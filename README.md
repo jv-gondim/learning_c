@@ -16,33 +16,15 @@
         * Flexível
         * Integrada a sistemas "Unix-like"(Grande parte do kernel do sistema operacional Linux foi feita em C) 
         
-        Sendo uma Linguagem compilada em parametros basicos:
-
-<<<<<<< HEAD
+        Sendo uma Linguagem compilada em parametros basicos
             Uma linguagem que ao contrário de uma interpretada, o código precisa ser "transformado" em um binário contendo instruções na linguagem que a máquina entende antes de poder ser executado.
             ** Binário = um arquivo escrito na forma de uma "imagem" exata de como seu conteúdo seria carregado na memória.
     
-    Algumas dicas quando se trabalha com C (Valeu pela aulas Blau Araujo <https://www.youtube.com/channel/UC8EGrwe_DXSzrCQclf_pv9g>)
-
-    + Seja radical!
-
-    Ataque os problemas pela raiz!
-
-    + Seja básico!
-
-    Pareto: 80% dos efeitos estão em 20% das causas.
-
-    + Seja essencial!
-
-    O essencial é o que sobra quando você remove todas
-    as variáveis de um problema sem transformá-lo em
-    outro problema.
-=======
+    
             Uma linguagem que ao contrário de uma interpretada, o código precisa ser "transformado" em um 
             binário contendo instruções na linguagem que a máquina entende antes de poder ser executado.
                 
-                Binário = um arquivo escrito na forma de uma "imagem" exata de como seu conteúdo seria carregado na memória.
->>>>>>> 46e609ac36e38ac9bbf9ed5a0f9a9cc42ab73b66
+            Binário = um arquivo escrito na forma de uma "imagem" exata de como seu conteúdo seria carregado na memória.
 
     C é uma linguagem compilada e existem varias compiladores para ele. O GCC ou GNU Compiler Collection é um dos mais famosos.
 
