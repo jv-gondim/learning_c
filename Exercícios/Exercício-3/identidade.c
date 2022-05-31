@@ -13,9 +13,9 @@ int main(){
     printf("Qual o seu nome: ");
     getString(name,250);
     
-    char sex[15];
+    char sex[50];
     printf("Informe seu sexo: ");
-    getString(sex,15);
+    getString(sex,50);
     
     char job[50];
     printf("informe sua profissao: ");
@@ -53,8 +53,8 @@ int main(){
     
     printf("--------------------------------------------------------------------\n");
     printf( "%s, voce tem %d anos, do sexo %s com altura de %.2f\n", &*name, age, &*sex, height);
-    printf("Sua profissão é %s, Mora na Rua: %s, Bairro %s\n", &*job, &*street, &*neighborhood);
-    printf("CEP: %d, na cidade de %s (%s)\n", cep, &*city, &*stateAbbreviation);
+    printf("Sua profissão é %s, Mora na Rua: %s no Bairro %s\n", &*job, &*street, &*neighborhood);
+    printf("Com o CEP: %d, na cidade de %s (%s)\n", cep, &*city, &*stateAbbreviation);
     printf("--------------------------------------------------------------------\n");
     
     return 0;
