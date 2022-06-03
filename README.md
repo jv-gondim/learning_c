@@ -186,7 +186,7 @@
         * Operadores lógicos
         * Operadores condicionais
     
-    Além desses grupos, outros operadores sao muito comuns na linguagem C são:
+    Além desses grupos, outros operadores que sao muito comuns na linguagem C são:
 
         : *var     - Aponta para uma variável (indireção)
         : &var     - Retorna o endereço de uma variável
