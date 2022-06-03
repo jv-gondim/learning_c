@@ -15,16 +15,6 @@
         * Portável
         * Flexível
         * Integrada a sistemas "Unix-like"(Grande parte do kernel do sistema operacional Linux foi feita em C) 
-        
-        Sendo uma Linguagem compilada em parametros basicos
-            Uma linguagem que ao contrário de uma interpretada, o código precisa ser "transformado" em um binário contendo instruções na linguagem que a máquina entende antes de poder ser executado.
-            ** Binário = um arquivo escrito na forma de uma "imagem" exata de como seu conteúdo seria carregado na memória.
-    
-    
-            Uma linguagem que ao contrário de uma interpretada, o código precisa ser "transformado" em um 
-            binário contendo instruções na linguagem que a máquina entende antes de poder ser executado.
-                
-            Binário = um arquivo escrito na forma de uma "imagem" exata de como seu conteúdo seria carregado na memória.
 
     C é uma linguagem compilada e existem varias compiladores para ele. O GCC ou GNU Compiler Collection é um dos mais famosos.
 
