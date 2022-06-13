@@ -14,13 +14,10 @@ int main(){
 
         printf("%d, %d\n", secondNumber, firstNumber);
 
+        return 0;
     }
 
-    if(firstNumber > secondNumber){
-
-        printf("%d, %d\n", firstNumber, secondNumber);
-
-    }
+    printf("%d, %d\n", firstNumber, secondNumber);
 
     return 0;
 }
